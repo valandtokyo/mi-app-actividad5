@@ -1,4 +1,6 @@
 <?php
+echo "Prueba cron funcionando<br>";
+
 $conn = new mysqli(
     "lab-db.cmprymvijhpn.us-east-1.rds.amazonaws.com",
     "admin",
